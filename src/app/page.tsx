@@ -7,7 +7,7 @@ export default function Home() {
         <div className="flex flex-col justify-center items-center min-h-screen text-center bg-[url(https://images.unsplash.com/photo-1542633008-b0047073391e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3JleSUyMG1vdW50YWlufGVufDB8fDB8fHww)] bg-cover bg-center grayscale brightness-75 contrast-125">
           <div className="max-w-5xl mx-auto px-6 md:px-8">
             <h1 className="text-4xl md:text-6xl font-bold pb-6 md:pb-8 text-white drop-shadow-lg leading-tight">
-              Selamat Datang di Portofolio Saya
+              Selamat Datang 
             </h1>
             <p className="text-xl md:text-2xl font-medium text-gray-100 drop-shadow-md max-w-3xl mx-auto leading-relaxed">
               Kenali saya lebih dekat sebagai seorang mahasiswa Informatika
